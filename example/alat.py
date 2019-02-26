@@ -1,7 +1,7 @@
 from adrini import Adrini 
 
 
-url = 'http://103.89.0.208'
+url = 'iot.penapalu.id'
 port = '6969'
 url_yes = url+":"+port
 apikey = "2ffaf8a9-d6d2-4ec9-8da7-90bf9783e3ae410349097441296385"
